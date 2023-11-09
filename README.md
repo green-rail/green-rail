@@ -1,5 +1,5 @@
 ### Hi there 👋 it's Jenya from Russia
-## 📫 Contacts: ![](https://disk.yandex.ru/i/FPeJGJa0hhrKsg) [telegram](https://t.me/green_rail) [mail](zxjenya@yandex.ru)
+## 📫 Contacts: ![](https://disk.yandex.ru/i/FPeJGJa0hhrKsg) [telegram](https://t.me/green_rail)  ✉️ [mail](zxjenya@yandex.ru)
 <!--
 **green-rail/green-rail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
