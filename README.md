@@ -1,5 +1,5 @@
 ## Hi there, it's Evgenii 👋
-### 📫 Contacts: [![Telegram Badge](https://img.shields.io/badge/-green_rail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/green_rail) [telegram](https://t.me/green_rail)  ✉️ [mail](zxjenya@yandex.ru)
+### 📫 Contacts: [![Telegram Badge](https://img.shields.io/badge/-green_rail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/green_rail)      ✉️ [mail](zxjenya@yandex.ru)
 
 ### 🚀 Main expertise and the focus of learning:
  - Backend
