@@ -1,14 +1,14 @@
-### Hi there 👋 it's Jenya from Russia
-## 📫 Contacts: ![](https://github.com/green-rail/green-rail/blob/main/icons8-telegram-32.png) [telegram](https://t.me/green_rail)  ✉️ [mail](zxjenya@yandex.ru)
+## Hi there, it's Evgenii 👋
+### 📫 Contacts: [![Telegram Badge](https://img.shields.io/badge/-green_rail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/green_rail) [telegram](https://t.me/green_rail)  ✉️ [mail](zxjenya@yandex.ru)
 
-## 🚀 Main expertise and the focus of learning:
+### 🚀 Main expertise and the focus of learning:
  - Backend
  - Java
  - Spring
  - SQL
  - Docker
 
-## 📚 Experience in: 
+### 📚 Experience in: 
  - Gamedev
  - Unity
  - C#
